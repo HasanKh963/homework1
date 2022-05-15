@@ -1,0 +1,7 @@
+"hassan" is a :string
+3 is a :int
+[] is a :list
+{} is a:set
+{"hassan":"kherbek"} is a:dictionary
+1+1 in string equal to:11
+1+1 in numbers is:2
